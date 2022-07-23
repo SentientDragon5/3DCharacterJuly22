@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 31282f332991c4dbdb5e53d6212ec32c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _OceanNormal2: {fileID: 2800000, guid: 9eb0a31e0ddf041e48cd711b48337588, type: 3}
+  - _OceanNormal1: {fileID: 2800000, guid: 29262c5f7b9c94daf9232c7924f33520, type: 3}
+  - _FarNormal: {instanceID: 0}
+  - _RiverNormal: {fileID: 2800000, guid: b50ee6897984b42a489a80652eef8ef7, type: 3}
+  - _LevelRiverNormal: {instanceID: 0}
+  - _ShallowNormal: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

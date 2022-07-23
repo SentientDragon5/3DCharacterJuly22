@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 448e3a9d0e2d84dc18d8fef82e4433a0, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  missingWeapon: {fileID: 0}
+  missingItem: {fileID: 11400000, guid: 20ff31cbb49864e2b9dee23b8bef2e5e, type: 2}
+  missingObject: {fileID: 0}
+  meleeWeapons:
+  - {fileID: 11400000, guid: fb61d5460187e4ce38550c48980b0259, type: 2}
+  rangedWeapons:
+  - {fileID: 11400000, guid: 9bf769569b50249dbb2a1002b7519de0, type: 2}
+  items:
+  - {fileID: 11400000, guid: 7165f0942972f44f6878549cca0dded7, type: 2}
+  - {fileID: 11400000, guid: ae53592f1b9634f4788820acf4a2ba47, type: 2}
+  - {fileID: 11400000, guid: 827f145b2794a4523953d913fe0803c8, type: 2}
+  - {fileID: 11400000, guid: 77483aa3f8abd40b2b957472bd8efbdc, type: 2}

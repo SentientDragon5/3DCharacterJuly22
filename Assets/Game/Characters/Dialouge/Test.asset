@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5d45a01dc323419290af8e6853a16ac, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  characterName: This Is my Name
+  dialouge:
+  - index: 0
+    text: Hello I am a Person
+    choices:
+    - text: You have No Choice
+      to: 1
+  - index: 1
+    text: Now you have a choice. 1 or 2?
+    choices:
+    - text: 1
+      to: 2
+    - text: 2
+      to: 3
+  - index: 2
+    text: Hah! You picked 1.
+    choices:
+    - text: 
+      to: 4
+  - index: 3
+    text: You picked 2
+    choices:
+    - text: 
+      to: 4
+  - index: 4
+    text: Repeat?
+    choices:
+    - text: Yes
+      to: 0
+    - text: No
+      to: 5
+  - index: 5
+    text: See Ya!
+    choices: []

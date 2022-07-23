@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 053b3379a9ed21d449ba01d44a839134
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - animatorController: {fileID: 9100000, guid: a597e025f9ac84b6f9ea0362615a82c7, type: 2}
+  - actionAsset: {fileID: -944628639613478452, guid: 9807616bb91a946bd8a9aa9f0bfc9ee7, type: 3}
+  - animator: {instanceID: 0}
+  - springRoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

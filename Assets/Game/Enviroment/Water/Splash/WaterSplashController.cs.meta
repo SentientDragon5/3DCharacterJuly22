@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84b4f998ec81f479491a6109614d2288
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effectPrefab: {fileID: 6949888445271198596, guid: 175e4b0831e604bdf9dc36da01669825, type: 3}
+  - splashAudioClip: {fileID: 8300000, guid: abb6aea7c861543c8a5184756974b67d, type: 3}
+  - ambientAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
